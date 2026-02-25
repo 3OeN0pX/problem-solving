@@ -19,22 +19,23 @@ LeetCode, Baekjoon, Programmers problem-solving record repository.
 ```text
 problem-solving/
 ├─ README.md
-├─ records.md
-├─ leetcode/
-├─ baekjoon/
+├─ leetcode/        (LeetHub)
+├─ baekjoon/        (BaekjoonHub)
 └─ programmers/
 ```
 
-You can also split by difficulty or language under each platform.
+Actual folder names can vary by extension defaults and localization settings.
 
-## Record Format (Recommended)
+## Record Tracking
 
-Record entries are managed in `records.md`.
+- Solved-problem history is tracked by repository commits and folder updates.
+- Problem-level notes can be added in each problem folder `README.md` when needed.
 
-- Record file: [records.md](./records.md)
+## Commit Policy
 
-## Commit Convention (Optional)
+This repository follows auto-commit workflows for supported platforms.
 
-- `feat: solve [platform] [problem-name]`
-- `docs: update solving notes`
-- `refactor: improve previous solution`
+- Baekjoon: synced through BaekjoonHub.
+- LeetCode: synced through LeetHub.
+- Keep extension-generated commit messages and paths as-is for problem submissions.
+- Use manual commits only for non-submission changes (docs, refactor, cleanup).
