@@ -70,5 +70,6 @@ This repository follows auto-commit workflows for supported platforms.
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/3OeN0pX/problem-solving/tree/master/0584-find-customer-referee) |
 | [0620-not-boring-movies](https://github.com/3OeN0pX/problem-solving/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
