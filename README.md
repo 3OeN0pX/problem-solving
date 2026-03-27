@@ -39,3 +39,23 @@ This repository follows auto-commit workflows for supported platforms.
 - LeetCode: synced through LeetHub.
 - Keep extension-generated commit messages and paths as-is for problem submissions.
 - Use manual commits only for non-submission changes (docs, refactor, cleanup).
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/3OeN0pX/problem-solving/tree/master/0645-set-mismatch) |
+## Hash Table
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/3OeN0pX/problem-solving/tree/master/0645-set-mismatch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/3OeN0pX/problem-solving/tree/master/0645-set-mismatch) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/3OeN0pX/problem-solving/tree/master/0645-set-mismatch) |
+<!---LeetCode Topics End-->
