@@ -74,4 +74,5 @@ This repository follows auto-commit workflows for supported platforms.
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/3OeN0pX/problem-solving/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/3OeN0pX/problem-solving/tree/master/0596-classes-with-at-least-5-students) |
 | [0620-not-boring-movies](https://github.com/3OeN0pX/problem-solving/tree/master/0620-not-boring-movies) |
+| [1193-monthly-transactions-i](https://github.com/3OeN0pX/problem-solving/tree/master/1193-monthly-transactions-i) |
 <!---LeetCode Topics End-->
