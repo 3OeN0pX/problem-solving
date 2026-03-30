@@ -48,6 +48,7 @@ This repository follows auto-commit workflows for supported platforms.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/3OeN0pX/problem-solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/3OeN0pX/problem-solving/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/3OeN0pX/problem-solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/3OeN0pX/problem-solving/tree/master/1441-build-an-array-with-stack-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +77,12 @@ This repository follows auto-commit workflows for supported platforms.
 | [0620-not-boring-movies](https://github.com/3OeN0pX/problem-solving/tree/master/0620-not-boring-movies) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/3OeN0pX/problem-solving/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/3OeN0pX/problem-solving/tree/master/1193-monthly-transactions-i) |
+## Stack
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/3OeN0pX/problem-solving/tree/master/1441-build-an-array-with-stack-operations) |
+## Simulation
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/3OeN0pX/problem-solving/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
