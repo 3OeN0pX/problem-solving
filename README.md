@@ -79,6 +79,7 @@ This repository follows auto-commit workflows for supported platforms.
 | [0620-not-boring-movies](https://github.com/3OeN0pX/problem-solving/tree/master/0620-not-boring-movies) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/3OeN0pX/problem-solving/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/3OeN0pX/problem-solving/tree/master/1193-monthly-transactions-i) |
+| [1280-students-and-examinations](https://github.com/3OeN0pX/problem-solving/tree/master/1280-students-and-examinations) |
 ## Stack
 |  |
 | ------- |
