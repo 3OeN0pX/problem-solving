@@ -51,6 +51,7 @@ This repository follows auto-commit workflows for supported platforms.
 | [0645-set-mismatch](https://github.com/3OeN0pX/problem-solving/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/3OeN0pX/problem-solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/3OeN0pX/problem-solving/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/3OeN0pX/problem-solving/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ This repository follows auto-commit workflows for supported platforms.
 | [0150-evaluate-reverse-polish-notation](https://github.com/3OeN0pX/problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/3OeN0pX/problem-solving/tree/master/0636-exclusive-time-of-functions) |
 | [1441-build-an-array-with-stack-operations](https://github.com/3OeN0pX/problem-solving/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/3OeN0pX/problem-solving/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
 | ------- |
@@ -94,4 +96,8 @@ This repository follows auto-commit workflows for supported platforms.
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/3OeN0pX/problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/3OeN0pX/problem-solving/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
